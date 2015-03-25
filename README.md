@@ -1,4 +1,4 @@
-TheMasterInMountainCave
+[**GitHubBlog**](https://github.com/bbxytl/bbxytl.github.com/blob/master/blog/README.md#home--githubblog) / [TheMasterInMountainCave](https://github.com/bbxytl/TheMasterInMountainCave#githubblog--themasterinmountaincave)
 ===
 - **Your Forces And How To Use Them**
 - **《山洞里的大师 第一卷 唤醒你的力量》**
